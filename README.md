@@ -6,9 +6,10 @@ This repository contains default server configuration files for various game ser
 
 Currently, this repository includes configuration files for:
 
+- **Counter-Strike 2**
 - **Half-Life Dedicated Server (HLDS)**
 - **Quake Live**
-- **Counter-Strike 2**
+
 
 ## How to Use These Files
 
