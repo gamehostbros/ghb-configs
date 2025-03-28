@@ -1,0 +1,25 @@
+ioq3 1.36+u20220205.c0f2964~dfsg-1/Ubuntu linux-x86_64 Feb  7 2022
+SSE instruction set enabled
+----- FS_Startup -----
+We are looking in the current search path:
+/home/container/.q3a/osp
+/home/container/.q3a/osp/zz-osp-server3a.pk3 (2 files)
+/home/container/.q3a/osp/zz-osp-pak3.pk3 (2 files)
+/home/container/.q3a/osp/zz-osp-pak2.pk3 (7 files)
+/home/container/.q3a/osp/zz-osp-pak1.pk3 (110 files)
+/home/container/.q3a/osp/zz-osp-pak0.pk3 (1045 files)
+/usr/lib/ioquake3/osp
+/home/container/.q3a/baseq3
+/usr/lib/ioquake3/baseq3
+/usr/lib/ioquake3/baseq3/pak8.pk3 (9 files)
+/usr/lib/ioquake3/baseq3/pak7.pk3 (4 files)
+/usr/lib/ioquake3/baseq3/pak6.pk3 (64 files)
+/usr/lib/ioquake3/baseq3/pak5.pk3 (7 files)
+/usr/lib/ioquake3/baseq3/pak4.pk3 (272 files)
+/usr/lib/ioquake3/baseq3/pak3.pk3 (4 files)
+/usr/lib/ioquake3/baseq3/pak2.pk3 (148 files)
+/usr/lib/ioquake3/baseq3/pak1.pk3 (26 files)
+
+----------------------
+1700 files in pk3 files
+"pak0.pk3" is missing. Please copy it from your legitimate Q3 CDROM. Also check that your ioq3 executable is in the correct place and that every file in the "baseq3" directory is present and readable
