@@ -1,0 +1,21 @@
+### Quake Live ###
+.quakelive/
+.steam/
+baseq3/pak00.pk3
+baseq3/bin.pk3
+linux64/
+logs/
+Steam/
+steamapps/
+steamcmd/
+.pteroignore
+libsteam_api.so
+qzeroded.x64
+qzeroded.x86
+run_server_x64.sh
+run_server_x86.sh
+server_readme.txt
+steam_appid.txt
+steamclient.so
+zmq_rcon.py
+zmq_stats_verbose.py
