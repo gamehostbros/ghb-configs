@@ -6,8 +6,10 @@ This repository contains default server configuration files for various game ser
 
 Currently, this repository includes configuration files for:
 
-- **Counter-Strike 2**
+- **Counter-Strike 2 (CS2)**
 - **Half-Life Dedicated Server (HLDS)**
+- **Jedi Academy - Multiplayer (JAMP)**
+- **Quake 3 - Arena (QA3)**
 - **Quake Live**
 
 
