@@ -10,6 +10,8 @@ Currently, this repository includes configuration files for:
 - **Half-Life Dedicated Server (HLDS)**
 - **Jedi Academy - Multiplayer (JAMP)**
 - **Quake 3 - Arena (QA3)**
+    - Base (BASEQA3)
+    - OSP MOD
 - **Quake Live**
 
 
